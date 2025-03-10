@@ -1,6 +1,0 @@
-a=input("ENTER THE CURRENT DATE :")
-b=input("TELL ME WHAT YOU SELECTED :")
-c=input("ENTER THE CYRRNT TIME :")
-print(f"your current date is {a}")
-print(f"your current selected is {b}")
-print(f"your current time is {c}")
